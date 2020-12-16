@@ -1,0 +1,38 @@
+C:\Users\Lenovo\Desktop\KütüphaneTakip\KütüphaneTakip\bin\Debug\KütüphaneTakip.exe.config
+C:\Users\Lenovo\Desktop\KütüphaneTakip\KütüphaneTakip\bin\Debug\KütüphaneTakip.exe
+C:\Users\Lenovo\Desktop\KütüphaneTakip\KütüphaneTakip\bin\Debug\KütüphaneTakip.pdb
+C:\Users\Lenovo\Desktop\KütüphaneTakip\KütüphaneTakip\obj\Debug\KütüphaneTakip.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\KütüphaneTakip\KütüphaneTakip\obj\Debug\KütüphaneTakip.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\KütüphaneTakip\KütüphaneTakip\obj\Debug\KütüphaneTakip.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\KütüphaneTakip\KütüphaneTakip\obj\Debug\KütüphaneTakip.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\KütüphaneTakip\KütüphaneTakip\obj\Debug\KütüphaneTakip.exe
+C:\Users\Lenovo\Desktop\KütüphaneTakip\KütüphaneTakip\obj\Debug\KütüphaneTakip.pdb
+C:\Users\Lenovo\Desktop\KütüphaneTakip\KütüphaneTakip\obj\Debug\KütüphaneTakip.Mekle.resources
+C:\Users\Lenovo\Desktop\KütüphaneTakip\KütüphaneTakip\obj\Debug\KütüphaneTakip.Kekle.resources
+C:\Users\Lenovo\Desktop\KütüphaneTakip\KütüphaneTakip\obj\Debug\KütüphaneTakip.Mguncel.resources
+C:\Users\Lenovo\Desktop\KütüphaneTakip\KütüphaneTakip\obj\Debug\KütüphaneTakip.Kguncel.resources
+C:\Users\Lenovo\Desktop\KütüphaneTakip\KütüphaneTakip\obj\Debug\KütüphaneTakip.Ksil.resources
+C:\Users\Lenovo\Desktop\KütüphaneTakip\KütüphaneTakip\obj\Debug\KütüphaneTakip.Msil.resources
+C:\Users\Lenovo\Desktop\KütüphaneTakip\KütüphaneTakip\obj\Debug\KütüphaneTakip.Kalma.resources
+C:\Users\Lenovo\Desktop\KütüphaneTakip\KütüphaneTakip\obj\Debug\KütüphaneTakip.Kteslim.resources
+C:\Users\Lenovo\Desktop\KütüphaneTakip\KütüphaneTakip\obj\Debug\KütüphaneTakip.Rapor.resources
+C:\Users\Lenovo\Desktop\KütüphaneTakip\KütüphaneTakip\obj\Debug\KütüphaneTakip.KütüphaneTakip.resources
+D:\mert\KTÜ\VERİ TABANI\KütüphaneTakip\KütüphaneTakip\bin\Debug\KütüphaneTakip.exe.config
+D:\mert\KTÜ\VERİ TABANI\KütüphaneTakip\KütüphaneTakip\bin\Debug\KütüphaneTakip.exe
+D:\mert\KTÜ\VERİ TABANI\KütüphaneTakip\KütüphaneTakip\bin\Debug\KütüphaneTakip.pdb
+D:\mert\KTÜ\VERİ TABANI\KütüphaneTakip\KütüphaneTakip\obj\Debug\KütüphaneTakip.csprojAssemblyReference.cache
+D:\mert\KTÜ\VERİ TABANI\KütüphaneTakip\KütüphaneTakip\obj\Debug\KütüphaneTakip.KütüphaneTakip.resources
+D:\mert\KTÜ\VERİ TABANI\KütüphaneTakip\KütüphaneTakip\obj\Debug\KütüphaneTakip.Kalma.resources
+D:\mert\KTÜ\VERİ TABANI\KütüphaneTakip\KütüphaneTakip\obj\Debug\KütüphaneTakip.Kekle.resources
+D:\mert\KTÜ\VERİ TABANI\KütüphaneTakip\KütüphaneTakip\obj\Debug\KütüphaneTakip.Kguncel.resources
+D:\mert\KTÜ\VERİ TABANI\KütüphaneTakip\KütüphaneTakip\obj\Debug\KütüphaneTakip.Ksil.resources
+D:\mert\KTÜ\VERİ TABANI\KütüphaneTakip\KütüphaneTakip\obj\Debug\KütüphaneTakip.Kteslim.resources
+D:\mert\KTÜ\VERİ TABANI\KütüphaneTakip\KütüphaneTakip\obj\Debug\KütüphaneTakip.Mekle.resources
+D:\mert\KTÜ\VERİ TABANI\KütüphaneTakip\KütüphaneTakip\obj\Debug\KütüphaneTakip.Mguncel.resources
+D:\mert\KTÜ\VERİ TABANI\KütüphaneTakip\KütüphaneTakip\obj\Debug\KütüphaneTakip.Msil.resources
+D:\mert\KTÜ\VERİ TABANI\KütüphaneTakip\KütüphaneTakip\obj\Debug\KütüphaneTakip.Properties.Resources.resources
+D:\mert\KTÜ\VERİ TABANI\KütüphaneTakip\KütüphaneTakip\obj\Debug\KütüphaneTakip.Rapor.resources
+D:\mert\KTÜ\VERİ TABANI\KütüphaneTakip\KütüphaneTakip\obj\Debug\KütüphaneTakip.csproj.GenerateResource.cache
+D:\mert\KTÜ\VERİ TABANI\KütüphaneTakip\KütüphaneTakip\obj\Debug\KütüphaneTakip.csproj.CoreCompileInputs.cache
+D:\mert\KTÜ\VERİ TABANI\KütüphaneTakip\KütüphaneTakip\obj\Debug\KütüphaneTakip.exe
+D:\mert\KTÜ\VERİ TABANI\KütüphaneTakip\KütüphaneTakip\obj\Debug\KütüphaneTakip.pdb
