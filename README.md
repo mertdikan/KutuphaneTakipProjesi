@@ -1,2 +1,2 @@
-# K-t-phaneTakipProjesi
+# KutuphaneTakipProjesi
 Veritabanı temellerini kullanarak gerçekleştirdiğim kütüphane takip projesi
